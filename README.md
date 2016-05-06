@@ -1,4 +1,4 @@
-# 98TinyPNG-Python
+# 98tinyPNG
 
 TinyPNG 批量压缩图片脚本
 
