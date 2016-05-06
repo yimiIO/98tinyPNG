@@ -25,14 +25,14 @@ sudo pip install --upgrade tinify
 
 ``` python
 tinify.key = "your AppKey" # AppKey
-fromFilePath = "/Users/tangjr/Desktop/test1" # 源路径
-toFilePath = "/Users/tangjr/Desktop/test2"   # 输出路径
+fromFilePath = "/Users/zpy/Desktop/test1" # 源路径
+toFilePath = "/Users/zpy/Desktop/test2"   # 输出路径
 ```
 
 运行脚本。打开终端：
 
 ``` ruby
-python /Users/tangjr/Documents/STTinyPNG-Python/98tinyPNG-Python.py
+python /Users/zpy/Documents/STTinyPNG-Python/98tinyPNG-Python.py
 ```
 
 
